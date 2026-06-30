@@ -15,7 +15,7 @@ Employee attrition is a major challenge for organizations as losing skilled empl
 This project aims to use historical employee data to:
 
 - Predict employee attrition risk
-- Analyze factors affecting employee decisions
+- Analyze factors affecting employee decisions  
 - Understand workforce trends
 - Support HR teams with data-driven insights
 
