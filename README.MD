@@ -7,7 +7,7 @@ RetainIQ is a Machine Learning-based HR Analytics platform that helps organizati
 The project focuses on predicting whether an employee is likely to leave the organization and provides meaningful insights related to employee retention, performance, and workplace factors.
 
 ---
-
+ 
 ## 🎯 Problem Statement
 
 Employee attrition is a major challenge for organizations as losing skilled employees impacts productivity and business growth.
