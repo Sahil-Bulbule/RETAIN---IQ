@@ -5,7 +5,7 @@
 RetainIQ is a Machine Learning-based HR Analytics platform that helps organizations analyze employee behavior, identify attrition risks, and understand workforce patterns.
 
 The project focuses on predicting whether an employee is likely to leave the organization and provides meaningful insights related to employee retention, performance, and workplace factors.  
-   
+    
 ---  
  
 ## 🎯 Problem Statement 
