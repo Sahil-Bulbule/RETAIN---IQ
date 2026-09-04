@@ -13,7 +13,7 @@ The project focuses on predicting whether an employee is likely to leave the org
 Employee attrition is a major challenge for organizations as losing skilled employees impacts productivity and business growth.
     
 This project aims to use historical employee data to:
-
+  
 - Predict employee attrition risk
 - Analyze factors affecting employee decisions  
 - Understand workforce trends
